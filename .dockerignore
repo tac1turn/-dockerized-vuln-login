@@ -1,0 +1,5 @@
+docker-compose.yml
+Dockerfile
+.gitignore
+.git
+myweb1dump.sql
